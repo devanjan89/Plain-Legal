@@ -1,0 +1,28 @@
+[
+  {"doc": "sample_rental_agreement.pdf", "question": "Can the landlord raise rent mid-lease?", "expected_clause": "2.3", "answerable": true},
+  {"doc": "sample_rental_agreement.pdf", "question": "How much is the monthly rent and when is it due?", "expected_clause": "2.2", "answerable": true},
+  {"doc": "sample_rental_agreement.pdf", "question": "How long is the lease term?", "expected_clause": "2.1", "answerable": true},
+  {"doc": "sample_rental_agreement.pdf", "question": "How much is the security deposit?", "expected_clause": "3.1", "answerable": true},
+  {"doc": "sample_rental_agreement.pdf", "question": "When will the security deposit be refunded?", "expected_clause": "3.2", "answerable": true},
+  {"doc": "sample_rental_agreement.pdf", "question": "What notice period is needed to end the lease early?", "expected_clause": "4.1", "answerable": true},
+  {"doc": "sample_rental_agreement.pdf", "question": "What is the late fee for paying rent after the 5th?", "expected_clause": "5.1", "answerable": true},
+  {"doc": "sample_rental_agreement.pdf", "question": "Who pays for major plumbing repairs?", "expected_clause": "6.1", "answerable": true},
+  {"doc": "sample_rental_agreement.pdf", "question": "Is subletting allowed?", "expected_clause": "6.2", "answerable": true},
+  {"doc": "sample_rental_agreement.pdf", "question": "Does the lease auto-renew and by how much does rent increase?", "expected_clause": "7.1", "answerable": true},
+  {"doc": "sample_rental_agreement.pdf", "question": "Are pets allowed in the apartment?", "expected_clause": null, "answerable": false},
+  {"doc": "sample_rental_agreement.pdf", "question": "Is parking included in the monthly rent?", "expected_clause": null, "answerable": false},
+
+  {"doc": "sample_terms_of_service.pdf", "question": "What is the minimum age to create a CloudNote account?", "expected_clause": "1.1", "answerable": true},
+  {"doc": "sample_terms_of_service.pdf", "question": "How many days before renewal must I cancel to avoid auto-renewal?", "expected_clause": "2.2", "answerable": true},
+  {"doc": "sample_terms_of_service.pdf", "question": "Can I get a refund on a renewal charge?", "expected_clause": "2.3", "answerable": true},
+  {"doc": "sample_terms_of_service.pdf", "question": "Does CloudNote share data with advertising partners?", "expected_clause": "3.2", "answerable": true},
+  {"doc": "sample_terms_of_service.pdf", "question": "When can CloudNote suspend my account without notice?", "expected_clause": "4.2", "answerable": true},
+  {"doc": "sample_terms_of_service.pdf", "question": "What encryption algorithm does CloudNote use for stored notes?", "expected_clause": null, "answerable": false},
+
+  {"doc": "sample_pm_kisan_guidelines.pdf", "question": "How much annual financial support is given under PM-KISAN?", "expected_clause": "1.1", "answerable": true},
+  {"doc": "sample_pm_kisan_guidelines.pdf", "question": "How are the installments paid?", "expected_clause": "1.2", "answerable": true},
+  {"doc": "sample_pm_kisan_guidelines.pdf", "question": "Who is included in the definition of a farmer family?", "expected_clause": "2.2", "answerable": true},
+  {"doc": "sample_pm_kisan_guidelines.pdf", "question": "Are income tax payers eligible for PM-KISAN?", "expected_clause": "3.2", "answerable": true},
+  {"doc": "sample_pm_kisan_guidelines.pdf", "question": "Is e-KYC mandatory to receive installments?", "expected_clause": "4.1", "answerable": true},
+  {"doc": "sample_pm_kisan_guidelines.pdf", "question": "What is the interest rate on crop loans under PM-KISAN?", "expected_clause": null, "answerable": false}
+]
